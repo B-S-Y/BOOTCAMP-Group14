@@ -1,16 +1,16 @@
 # Takım İsmi
-Unity-Grup14 
+## DeathLine
 # Ürün Adı
-
+## ScapeMare
 # Takım Üyeleri
 
 | Name | Title     | Socials                |
 | :------- | :------- | :------------------------- |
-| Berin Sudem Yıldırım | Scrum Master  |  |
-| Deniz Can Şova       | Product Owner |  |
-| Özgür Çallı          | Developer     |  |
-| Saime Özen           | Developer     |  |
-| Sude Nur Eynel       | Developer     |  |
+| Berin Sudem Yıldırım | Scrum Master  | [![linkedin]()](https://www.linkedin.com/in/berin-sudem-y%C4%B1ld%C4%B1r%C4%B1m/) |
+| Deniz Can Şova       | Product Owner | [![linkedin]()](https://www.linkedin.com/in/deniz-can-%C5%9Fova-a7b604279/) |  
+| Özgür Çallı          | Developer     | [![linkedin]()](https://www.linkedin.com/in/ozgur-calli-078674225/) |
+| Saime Özen           | Developer     | [![linkedin]()]() |
+| Sude Nur Eynel       | Developer     | [![linkedin]()](https://www.linkedin.com/in/sude-nur-eynel-844543255/) |
 
 
 # Ürün Açıklaması
@@ -46,5 +46,17 @@ Backrooms evreninden ilham alan oyunumuzda oyuncu, karanlık ve klostrofobik bir
 
 * __Sprint Review:__
 
+  - Asset araştırmaları yapılıp ilk level için asset seçilmiş ve level
+  - İkinci sprint planı oluşturuldu, görev dağılımları netleştirildi.
+  - Oyun ve Takım ismi karalaştırıldı.
+  - Level Design yapıldı ve Oda 1 tasarımına başlandı.
+  
+ 
+  - Sprint Review Katılımcıları: Berin Sudem Yıldırım, Sude Nur Eynel, Deniz Can Şova, Özgür Şallı, Saime Özen
 
 * __Sprint Retrospective:__
+    - Oyunun fikir gelişim aşamasında hemfikir olmakta zorlandığımız için projeye başlamamız biraz uzun sürdü.
+    - Ekip üyelerinin bir araya gelmesi sınav süreçlerimizden dolayı uzun sürdü.
+    - Görev dağılımı yapmakta zorlandık. Takım üyelerinin birbirlerini daha iyi tanımalarıyla görev dağılımlarını daha kolay bir şekilde gerçekleştirmeye başladık.
+    - Zaman yönetimini sağlayabilme konusunda zorluk yaşadık. Bunu çözebilmek adına 3 günde bir toplantı yapılmasına ve her gün whatsapp üzerinden günlük hedeflerin paylaşılmasına karar verildi.
+    - Miro üzerinde görevlerin daha kolay takibinin yapılabilmesi için her bir ekip üyesinin görsel eklemesine ve bireysel olarak da incelenebilecek bir board eklenmesine karar verilmiştir.
