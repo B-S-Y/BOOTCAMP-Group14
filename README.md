@@ -51,6 +51,7 @@ Backrooms evreninden ilham alan oyunumuzda oyuncu, karanlık ve klostrofobik bir
       ![](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/image%20(1).png)
     
 * __Sprint Board Update:__
+*  ![]( https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/miro.png)
 
 * __Sprint Review:__
 
