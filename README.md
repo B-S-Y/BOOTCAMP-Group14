@@ -41,7 +41,12 @@ Backrooms evreninden ilham alan oyunumuzda oyuncu, karanlık ve klostrofobik bir
   
 * __Daily Scrum:__ Daily Scrum toplantıları ekip üyelerinin yoğunluklarından dolayı her gün yapılamamış olup yapıldığında ise Slack üzerinden Huddle ve whatsapp üzerinden iletişime geçilmiştir.
 [Sprint 1 Daily Scrum Chats](https://drive.google.com/drive/u/0/folders/10_47MEWgWP4pdmUrRPMq3aPqYX35ERx-)
-
+* __ScreenShots:__
+  - Geliştirme Aşama 1:
+      ![](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/bootcamp.jpg)
+  - Geliştirme Aşama 2:
+      ![](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/image.png)
+    
 * __Sprint Board Update:__
 
 * __Sprint Review:__
