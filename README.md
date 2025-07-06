@@ -1,4 +1,4 @@
-![resim](https://github.com/user-attachments/assets/8ef1abe1-2e8a-4775-a54f-8be7c9ad06c8)# Takım İsmi
+# Takım İsmi
 Unity-Grup14 
 # Ürün Adı
 
