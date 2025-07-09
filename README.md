@@ -6,11 +6,11 @@
 
 | Name | Title     | Socials                |
 | :------- | :------- | :------------------------- |
-| Berin Sudem Yıldırım | Scrum Master  | [![linkedin](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/icons8-linkedin-50(2).png)](https://www.linkedin.com/in/berin-sudem-y%C4%B1ld%C4%B1r%C4%B1m/) |
-| Deniz Can Şova       | Product Owner | [![linkedin](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/icons8-linkedin-50(2).png)](https://www.linkedin.com/in/deniz-can-%C5%9Fova-a7b604279/) |  
-| Özgür Çallı          | Developer     | [![linkedin](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/icons8-linkedin-50(2).png)](https://www.linkedin.com/in/ozgur-calli-078674225/) |
-| Saime Özen           | Developer     | [![linkedin](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/icons8-linkedin-50(2).png)]() |
-| Sude Nur Eynel       | Developer     | [![linkedin](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/icons8-linkedin-50(2).png)](https://www.linkedin.com/in/sude-nur-eynel-844543255/) |
+| Berin Sudem Yıldırım | Scrum Master  | [![linkedin](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/icons8-linkedin-50(3).png)](https://www.linkedin.com/in/berin-sudem-y%C4%B1ld%C4%B1r%C4%B1m/) |
+| Deniz Can Şova       | Product Owner | [![linkedin](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/icons8-linkedin-50(3).png)](https://www.linkedin.com/in/deniz-can-%C5%9Fova-a7b604279/) |  
+| Özgür Çallı          | Developer     | [![linkedin](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/icons8-linkedin-50(3).png)](https://www.linkedin.com/in/ozgur-calli-078674225/) |
+| Saime Özen           | Developer     | [![linkedin](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/icons8-linkedin-50(3).png)]() |
+| Sude Nur Eynel       | Developer     | [![linkedin](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/icons8-linkedin-50(3).png)](https://www.linkedin.com/in/sude-nur-eynel-844543255/) |
 
 
 # Ürün Açıklaması
