@@ -1,26 +1,25 @@
 using UnityEngine;
 
-public class Player : Entity
+public class Player : MonoBehaviour
 {
 
-    [SerializeField] private float speed = 5f;
-    [SerializeField] private float jumpForce = 5f;
+    public PlayerInput input { get; private set; }
+    public PlayerMovement movement { get; private set; }
 
-
-
-
-    void Update()
+    private void Awake()
     {
-        Move();
+        input = new PlayerInput();
+        movement = GetComponent<PlayerMovement>();
     }
 
-    private void Move()
+    void OnEnable()
     {
-        float moveX = Input.GetAxis("Horizontal");
-        float moveZ = Input.GetAxis("Vertical");
+        input.Enable();
+    }
 
-        Vector3 move = transform.right * moveX + transform.forward * moveZ;
-        rb.MovePosition(rb.position + move * speed * Time.deltaTime);
+    void OnDisable()
+    {
+        input.Disable();
     }
 
 
