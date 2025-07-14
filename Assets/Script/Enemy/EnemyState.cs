@@ -16,7 +16,6 @@ public class EnemyState
     }
     public virtual void Enter()
     {
-        Debug.Log(stateMachine.currentState);
     }
     public virtual void Update()
     {

@@ -51,6 +51,11 @@ public class Enemy : MonoBehaviour
             EnterBattleMode();
             return true;
         }
+        else if (!isAgressionRange && inBattleMode)
+        {
+            inBattleMode = false;
+            return false;
+        }
 
         return false;
     }
@@ -59,6 +64,8 @@ public class Enemy : MonoBehaviour
     {
         inBattleMode = true;
     }
+
+    public bool IsInBattleMode() => inBattleMode;
 
     public void FaceTarget(Vector3 target)
     {

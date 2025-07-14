@@ -16,6 +16,8 @@ public class EnemyChaseState : EnemyState
         enemy.agent.speed = enemy.chaseSpeed;
 
         enemy.agent.isStopped = false;
+
+        stateTimer = 8;
     }
 
     public override void Exit()
@@ -33,6 +35,11 @@ public class EnemyChaseState : EnemyState
         if (CanUpdateDestination())
         {
             enemy.agent.destination = enemy.player.position;
+        }
+
+        if (!enemy.IsInBattleMode() && stateTimer < 0)
+        {
+            enemy.stateMachine.ChangeState(enemy.idleState);
         }
     }
 
