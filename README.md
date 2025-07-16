@@ -77,3 +77,55 @@ Backrooms evreninden ilham alan oyunumuzda oyuncu, karanlık ve klostrofobik bir
     - Miro üzerinde görevlerin daha kolay takibinin yapılabilmesi için her bir ekip üyesinin görsel eklemesine ve bireysel olarak da incelenebilecek bir board eklenmesine karar verilmiştir.
 
 </details>
+
+---------------------
+
+<details>
+    <summary><h1>2.Sprint</h1></summary>
+
+
+
+* __Sprint Notları:__
+    - 2.sprinte 45 puanlık bir ekleme yapılmıştır. Bunlar (bunlar puzzle eklenmeleri ve oyun başlangıcına eklenmesi planlanan sinematikler şeklindedir.)
+    - Puanlama sisteminde güncellemeye gidilmiştir. 
+    - Toplantılar sonucunda Oda(level) sayısı 5'ten 3'e düşürülmüş, oyun içi detaylara önem verilmiş, puzzle eklenmesi kararlaştırılmıştır.
+    - Takım mentörümüz ile yapılan toplantı sonrasında oyun hikayemizde backrooms konseptini hikayeleştirerek geliştirdik.
+    
+
+* __Sprint içinde tamamlanması planlanan tahmin edilden puan: 145__
+* __Puan Tamamlama Mantığı:__ Toplamda proje boyunca tamamlanması planlanan  puanlık backlog bulunmaktadır. 3 Sprinte bölündüğünde ilk sprintte 145 puanlık kısmının tamamlanmasına karar verilmiştir.
+
+  
+* __Daily Scrum:__ Daily Scrum toplantıları her hafta en az iki (3 günde bir) kez huddle üzerinde toplantı şeklinde yapılmış ve bir önceki sprint retrospective kararları uygulanmıştır. Günlük olarak da whatsapp üzerinde iletişimde kalınmaya çalışılmış, yapılanlar ekip ile paylaşılmıştır.
+
+[Sprint 1 Daily Scrum Chats](https://drive.google.com/drive/u/0/folders/1ybVyvhDJU75fx1MBjhGqtMo6D-XETp6D)
+
+    
+* __Sprint Board Update:__
+  ![]()
+
+
+* __ScreenShots:__
+  - Geliştirme Aşama 1:
+      ![]()
+  - Geliştirme Aşama 2:
+      ![]()
+  - Geliştirme Aşama 3:
+      ![]()
+
+
+* __Sprint Review:__
+
+  
+  
+ 
+  - Sprint Review Katılımcıları: Berin Sudem Yıldırım, Sude Nur Eynel, Deniz Can Şova, Özgür Şallı, Saime Özen
+
+* __Sprint Retrospective:__
+
+
+</details>
+
+
+
+
