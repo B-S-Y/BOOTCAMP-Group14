@@ -98,21 +98,18 @@ Backrooms evreninden ilham alan oyunumuzda oyuncu, karanlık ve klostrofobik bir
   
 * __Daily Scrum:__ Daily Scrum toplantıları her hafta en az iki (3 günde bir) kez huddle üzerinde toplantı şeklinde yapılmış ve bir önceki sprint retrospective kararları uygulanmıştır. Günlük olarak da whatsapp üzerinde iletişimde kalınmaya çalışılmış, yapılanlar ekip ile paylaşılmıştır.
 
-[Sprint 1 Daily Scrum Chats](https://drive.google.com/drive/u/0/folders/1ybVyvhDJU75fx1MBjhGqtMo6D-XETp6D)
+[Sprint 2 Daily Scrum Chats](https://drive.google.com/drive/u/0/folders/1ybVyvhDJU75fx1MBjhGqtMo6D-XETp6D)
 
     
 * __Sprint Board Update:__
-  ![]()
+  ![Sprint Board Update 1](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-07-11%20001313.png))
+  ![Sprint Board Update 2](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-07-16%20230001.png))
 
 
 * __ScreenShots:__
-  - Geliştirme Aşama 1:
+  - Geliştirme Aşama :
       ![]()
-  - Geliştirme Aşama 2:
-      ![]()
-  - Geliştirme Aşama 3:
-      ![]()
-
+ 
 
 * __Sprint Review:__
 
@@ -127,5 +124,5 @@ Backrooms evreninden ilham alan oyunumuzda oyuncu, karanlık ve klostrofobik bir
 </details>
 
 
-
+---------------------
 
