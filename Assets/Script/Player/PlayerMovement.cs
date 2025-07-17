@@ -23,7 +23,7 @@ public class PlayerMovement : MonoBehaviour
     public bool isRunning { get; private set; }
 
     private float stamina = 100f;
-    private float staminaInterval = 35f;
+    private float staminaInterval = 20f; // Değer azaldıkça koşu süresi artar
 
 
     [SerializeField] private TextMeshProUGUI staminaText;

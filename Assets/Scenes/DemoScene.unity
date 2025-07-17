@@ -451,10 +451,10 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 35cdcc8d159274c639d4fc12ef701316, type: 3}
   m_Resource: {fileID: 8300000, guid: 35cdcc8d159274c639d4fc12ef701316, type: 3}
-  m_PlayOnAwake: 1
-  m_Volume: 1
+  m_PlayOnAwake: 0
+  m_Volume: 0.05
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -2601,6 +2601,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lightsAnim:
   - {fileID: 1538043862}
+  - {fileID: 1298617547}
+  - {fileID: 513526746}
 --- !u!1 &1263847270
 GameObject:
   m_ObjectHideFlags: 0

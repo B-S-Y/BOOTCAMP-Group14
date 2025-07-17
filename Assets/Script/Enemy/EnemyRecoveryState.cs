@@ -14,7 +14,7 @@ public class EnemyRecoveryState : EnemyState
 
         enemy.agent.isStopped = true;
 
-        stateTimer = 1.2f;
+        stateTimer = 2.5f;
     }
 
     public override void Exit()
