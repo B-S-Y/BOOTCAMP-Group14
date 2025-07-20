@@ -92,7 +92,7 @@ Backrooms evreninden ilham alan oyunumuzda oyuncu, karanlık ve klostrofobik bir
     - Takım mentörümüz ile yapılan toplantı sonrasında oyun hikayemizde backrooms konseptini hikayeleştirerek geliştirdik.
     
 
-* __Sprint içinde tamamlanması planlanan tahmin edilden puan: 145__
+* __Sprint içinde tamamlanması planlanan tahmin edilden puan: 125__
 * __Puan Tamamlama Mantığı:__ Toplamda proje boyunca tamamlanması planlanan  puanlık backlog bulunmaktadır. 3 Sprinte bölündüğünde ilk sprintte 145 puanlık kısmının tamamlanmasına karar verilmiştir. Bu sprintte 52? puanlık görev tamamlanmıştır.
 
   
@@ -104,12 +104,14 @@ Backrooms evreninden ilham alan oyunumuzda oyuncu, karanlık ve klostrofobik bir
 * __Sprint Board Update:__
   ![Sprint Board Update 1](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-07-11%20001313.png)
   ![Sprint Board Update 2](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-07-16%20230001.png)
-  ![Sprint Board Update 3]()
+  ![Sprint Board Update 3](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/Sprint%20board%20update3.png)
 
 
 * __ScreenShots:__
   - Geliştirme Aşama :
-      ![]()
+      ![](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-07-20%20224304.png)
+      ![](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/animations.png)
+
  
 
 * __Sprint Review:__
