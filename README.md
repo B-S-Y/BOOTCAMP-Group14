@@ -38,7 +38,7 @@ Backrooms evreninden ilham alan oyunumuzda oyuncu, karanlık ve klostrofobik bir
     - Bazı karakter assetlerinin üretimi için `Blender` kullanımına karar verilmiştir. Ekip arkadaşımız uygulamayı öğrenmeye başlamış, çalışmalara yoğun bir şekilde devam etmektedir.
 
 * __Sprint içinde tamamlanması planlanan tahmin edilden puan: 34__
-* __Puan Tamamlama Mantığı:__ Toplamda proje boyunca tamamlanması planlanan 100 puanlık backlog bulunmaktadır. 3 Sprinte bölündüğünde ilk sprintte 34 puanlık kısmının tamamlanmasına karar verilmiştir.
+* __Puan Tamamlama Mantığı:__ Toplamda proje boyunca tamamlanması planlanan 138*(toplam sprint puanı değiştirilmiştir.) puanlık backlog bulunmaktadır. 3 Sprinte bölündüğünde ilk sprintte 34 puanlık kısmının tamamlanmasına karar verilmiştir.
 
   
 * __Daily Scrum:__ Daily Scrum toplantıları ekip üyelerinin yoğunluklarından dolayı her gün yapılamamış olup yapıldığında ise Slack üzerinden Huddle ve whatsapp üzerinden iletişime geçilmiştir.
@@ -86,14 +86,14 @@ Backrooms evreninden ilham alan oyunumuzda oyuncu, karanlık ve klostrofobik bir
 
 
 * __Sprint Notları:__
-    - 2.sprinte 45 puanlık bir ekleme yapılmıştır. Bunlar (bunlar puzzle eklenmeleri ve oyun başlangıcına eklenmesi planlanan sinematikler şeklindedir.)
+    - 2.sprinte 25 puanlık bir ekleme yapılmıştır. Bunlar (bunlar puzzle eklenmeleri ve oyun başlangıcına eklenmesi planlanan sinematikler şeklindedir.)
     - Puanlama sisteminde güncellemeye gidilmiştir. 
     - Toplantılar sonucunda Level sayısı 5'ten 2'ye düşürülmüş, oyun içi detaylara önem verilmiş, puzzle eklenmesi kararlaştırılmıştır.
     - Takım mentörümüz ile yapılan toplantı sonrasında oyun hikayemizde backrooms konseptini hikayeleştirerek geliştirdik.
     
 
-* __Sprint içinde tamamlanması planlanan tahmin edilden puan: 125__
-* __Puan Tamamlama Mantığı:__ Toplamda proje boyunca tamamlanması planlanan  puanlık backlog bulunmaktadır. 3 Sprinte bölündüğünde ilk sprintte 145 puanlık kısmının tamamlanmasına karar verilmiştir. Bu sprintte 52? puanlık görev tamamlanmıştır.
+* __Sprint içinde tamamlanması planlanan tahmin edilden puan: 113__
+* __Puan Tamamlama Mantığı:__ Toplamda proje boyunca tamamlanması planlanan puanlık backlog bulunmaktadır. Bu sprintte 58 puanlık görev tamamlanmıştır. 55 puanlık kısım ise iş yükü ve bireysel yoğunluklardan dolayı bir sonraki sprintte tamamlanmak üzere devam etmektedir..
 
   
 * __Daily Scrum:__ Daily Scrum toplantıları her hafta en az iki (3 günde bir) kez huddle üzerinde toplantı şeklinde yapılmış ve bir önceki sprint retrospective kararları uygulanmıştır. Günlük olarak da whatsapp üzerinde iletişimde kalınmaya çalışılmış, yapılanlar ekip ile paylaşılmıştır.
@@ -108,9 +108,11 @@ Backrooms evreninden ilham alan oyunumuzda oyuncu, karanlık ve klostrofobik bir
 
 
 * __ScreenShots:__
-  - Geliştirme Aşama :
+  - Geliştirme Aşamaları :
       ![](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-07-20%20224304.png)
       ![](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/animations.png)
+      ![](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/figma%20level%20design%202.jpg)
+    
 
  
 
