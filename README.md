@@ -88,12 +88,12 @@ Backrooms evreninden ilham alan oyunumuzda oyuncu, karanlık ve klostrofobik bir
 * __Sprint Notları:__
     - 2.sprinte 45 puanlık bir ekleme yapılmıştır. Bunlar (bunlar puzzle eklenmeleri ve oyun başlangıcına eklenmesi planlanan sinematikler şeklindedir.)
     - Puanlama sisteminde güncellemeye gidilmiştir. 
-    - Toplantılar sonucunda Oda(level) sayısı 5'ten 3'e düşürülmüş, oyun içi detaylara önem verilmiş, puzzle eklenmesi kararlaştırılmıştır.
+    - Toplantılar sonucunda Level sayısı 5'ten 2'ye düşürülmüş, oyun içi detaylara önem verilmiş, puzzle eklenmesi kararlaştırılmıştır.
     - Takım mentörümüz ile yapılan toplantı sonrasında oyun hikayemizde backrooms konseptini hikayeleştirerek geliştirdik.
     
 
 * __Sprint içinde tamamlanması planlanan tahmin edilden puan: 145__
-* __Puan Tamamlama Mantığı:__ Toplamda proje boyunca tamamlanması planlanan  puanlık backlog bulunmaktadır. 3 Sprinte bölündüğünde ilk sprintte 145 puanlık kısmının tamamlanmasına karar verilmiştir.
+* __Puan Tamamlama Mantığı:__ Toplamda proje boyunca tamamlanması planlanan  puanlık backlog bulunmaktadır. 3 Sprinte bölündüğünde ilk sprintte 145 puanlık kısmının tamamlanmasına karar verilmiştir. Bu sprintte 52? puanlık görev tamamlanmıştır.
 
   
 * __Daily Scrum:__ Daily Scrum toplantıları her hafta en az iki (3 günde bir) kez huddle üzerinde toplantı şeklinde yapılmış ve bir önceki sprint retrospective kararları uygulanmıştır. Günlük olarak da whatsapp üzerinde iletişimde kalınmaya çalışılmış, yapılanlar ekip ile paylaşılmıştır.
@@ -102,8 +102,9 @@ Backrooms evreninden ilham alan oyunumuzda oyuncu, karanlık ve klostrofobik bir
 
     
 * __Sprint Board Update:__
-  ![Sprint Board Update 1](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-07-11%20001313.png))
-  ![Sprint Board Update 2](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-07-16%20230001.png))
+  ![Sprint Board Update 1](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-07-11%20001313.png)
+  ![Sprint Board Update 2](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-07-16%20230001.png)
+  ![Sprint Board Update 3]()
 
 
 * __ScreenShots:__
@@ -112,15 +113,21 @@ Backrooms evreninden ilham alan oyunumuzda oyuncu, karanlık ve klostrofobik bir
  
 
 * __Sprint Review:__
-
-  
+  - Oyun içindeki düşman karakterlerinin takım tarafından yapılması kararı değiştirilmiş olup free asset olarak kullanılmasına ve üzerinde çalışılmasına karar verilmiştir. (Assetlere iskelet eklenmiştir)
+  - Oyun level design çıkarılmış olup seçilen assetlerin yerleştirilmesine karar verilmiştir.
+  - Level design için kullanılacak asset ve propslar kararlaştırılmış olup yalnızca yerleştirilmeleri kalmıştır.
+  - Oyun içerisindeki odalar yerine level düzenlemeleri yapılacak olup 2 level olacak şekilde düzenlenmiştir. 
   
  
-  - Sprint Review Katılımcıları: Berin Sudem Yıldırım, Sude Nur Eynel, Deniz Can Şova, Özgür Şallı, Saime Özen
+  - Sprint Review Katılımcıları: Berin Sudem Yıldırım, Sude Nur Eynel, Deniz Can Şova, Özgür Şallı
 
 * __Sprint Retrospective:__
-
-
+  - Önceki sprinte göre iletişim konusunda iyileştirilmeler yapılmıştır ancak hala eksikler olduğu görülüp günlük feedback konusunun üzerinde durulnuştur.
+  - İletişim iyileştirilebilmesi adına miro üzerinden daha sık güncellemeler yapılmasına karar verilmiştir.
+  - Karar alma konusunda takımca daha iyi uyum sağlayabildik.
+  
+  
+  
 </details>
 
 
