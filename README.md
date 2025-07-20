@@ -118,9 +118,9 @@ Backrooms evreninden ilham alan oyunumuzda oyuncu, karanlık ve klostrofobik bir
 
 * __Sprint Review:__
   - Oyun içindeki düşman karakterlerinin takım tarafından yapılması kararı değiştirilmiş olup free asset olarak kullanılmasına ve üzerinde çalışılmasına karar verilmiştir. (Assetlere iskelet eklenmiştir)
-  - Oyun level design çıkarılmış olup seçilen assetlerin yerleştirilmesine karar verilmiştir.
-  - Level design için kullanılacak asset ve propslar kararlaştırılmış olup yalnızca yerleştirilmeleri kalmıştır.
-  - Oyun içerisindeki odalar yerine level düzenlemeleri yapılacak olup 2 level olacak şekilde düzenlenmiştir. 
+  - Oyun level design  olup seçilen assetlerin yerleştirilmesine karar verilmiştir.
+  - Oyun içi level design süreci bitirilmiş ve kullanılacak assetlerin seçimi yapılmıştır. Seçilen assetlerin yerleştirme işlemleri bir sonraki sprintte tamamlanacaktır.
+  - Oyun içerisindeki tek tek oda yapılması yerine yerine level mantığı benimsenmiş olup levellarda gerekli oda düzenlemeleri 2 level olacak şekilde eklenmektedir.
   
  
   - Sprint Review Katılımcıları: Berin Sudem Yıldırım, Sude Nur Eynel, Deniz Can Şova, Özgür Şallı
