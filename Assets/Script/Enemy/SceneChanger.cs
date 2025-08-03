@@ -4,12 +4,13 @@ using UnityEngine.SceneManagement;
 
 public class SceneChanger : MonoBehaviour
 {
+    public string sceneName;
     private void OnTriggerEnter(Collider other)
     {
         if (other.GetComponent<Player>() != null)
         {
             // Assuming you have a method to change the scene
-            StartCoroutine(LoadSceneCoroutine("LoadingScene"));
+            StartCoroutine(LoadSceneCoroutine(sceneName));
         }
     }
 

@@ -8,6 +8,7 @@ public class EnemyState
 
 
     protected float stateTimer;
+    
 
     public EnemyState(Enemy enemyBase, EnemyStateMachine stateMachine)
     {
