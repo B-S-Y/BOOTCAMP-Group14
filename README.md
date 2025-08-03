@@ -1,7 +1,14 @@
 # Takım İsmi
 ## DeathLine
+# Takım Logosu
+![takım logosu](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/teamlogo.jpg)
+
 # Ürün Adı
 ## ScapeMare
+# Ürün Logosu
+![ürün logosu](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/gamelogo.jpg)
+
+
 # Takım Üyeleri
 
 | Name | Title     | Socials                |
@@ -118,7 +125,7 @@ Backrooms evreninden ilham alan oyunumuzda oyuncu, karanlık ve klostrofobik bir
 
 * __Sprint Review:__
   - Oyun içindeki düşman karakterlerinin takım tarafından yapılması kararı değiştirilmiş olup free asset olarak kullanılmasına ve üzerinde çalışılmasına karar verilmiştir. (Assetlere iskelet eklenmiştir)
-  - Oyun level design  olup seçilen assetlerin yerleştirilmesine karar verilmiştir.
+  - Oyun level design olup seçilen assetlerin yerleştirilmesine karar verilmiştir.
   - Oyun içi level design süreci bitirilmiş ve kullanılacak assetlerin seçimi yapılmıştır. Seçilen assetlerin yerleştirme işlemleri bir sonraki sprintte tamamlanacaktır.
   - Oyun içerisindeki tek tek oda yapılması yerine yerine level mantığı benimsenmiş olup levellarda gerekli oda düzenlemeleri 2 level olacak şekilde eklenmektedir.
   
@@ -129,6 +136,65 @@ Backrooms evreninden ilham alan oyunumuzda oyuncu, karanlık ve klostrofobik bir
   - Önceki sprinte göre iletişim konusunda iyileştirilmeler yapılmıştır ancak hala eksikler olduğu görülüp günlük feedback konusunun üzerinde durulnuştur.
   - İletişim iyileştirilebilmesi adına miro üzerinden daha sık güncellemeler yapılmasına karar verilmiştir.
   - Karar alma konusunda takımca daha iyi uyum sağlayabildik.
+  
+  
+  
+</details>
+
+
+---------------------
+
+
+<details>
+    <summary><h1>3.Sprint</h1></summary>
+
+
+
+* __Sprint Notları:__
+    - Total puanlamaya 10 puanlık bir görev eklenmiş olup toplam puan güncellenmiştir.
+    - Kullanılan assetlerde değişikliğe gidilmiştir.
+    - Önceki sprintten kalan 55 puanlık in progress görevleri bu sprintte tamamlanmış olup bu sprinte ait olan 35 puanlık backlog tamamlanmıştır.
+    
+
+* __Sprint içinde tamamlanması planlanan tahmin edilden puan: 90__
+* __Puan Tamamlama Mantığı:__ Toplamda proje boyunca tamamlanması planlanan 153 puanlık backlog bulunmaktadır. Bu sprintte 90 puanlık görev tamamlanmıştır (bu görevlerin büyük bir kısmı sprint 2' tamamlanamayıp ancak önemli yol alınmış backloglardır.)
+
+  
+* __Daily Scrum:__ Günlük olarak da whatsapp üzerinde iletişimde kalınmaya çalışılmış, 3 veya 4 günde bir slack üzerinden huddle ile haberleşilmiş, yapılanlar ekip ile paylaşılmış olup fikir alınmıştır.
+
+[Sprint 3 Daily Scrum Chats](https://drive.google.com/drive/u/0/folders/1M18lYI9b-lo7K7eWm1iXIDc3appeKTpM)
+
+    
+* __Sprint Board Update:__
+  ![Sprint Board Update 1](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/3.SprintBoard1.png)
+  ![Sprint Board Update 2](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/3.SprintBoard2.png)
+  ![Sprint Board Update 3](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/3.SprintBoard3.png)
+  ![Sprint Board Update 4](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/3.SprintBoard4.png)
+
+
+* __ScreenShots:__
+  - Geliştirme Aşamaları :
+      ![](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/gelistirmeasama2.png)
+      ![](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/gelistirmeasama3.png)
+      ![](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/gelistirmeasama1.png)
+      ![](https://github.com/B-S-Y/BOOTCAMP-Group14/blob/main/Assets/Graphics/gelistirmeasama4.png)
+    
+
+ 
+
+* __Sprint Review:__
+  - Oyun sahnelerinin mapleri tamamlanmış olup assetlerin ve propların yerleştirilmesi tamamlanmıştır.
+  - Oyuna müzikler ve yeni ışıklandırmalar eklenmiş olup oyuncunun oyun atmosferine girebilmesi hedeflenmiştir.
+  - Ekip arkadaşlarımız tarafından yapılanlar proje üzerinden birleştirilmiş ve oyunun son hali verilmiştir.
+  - Oyun ve takım logosu son halini almıştır.
+  
+ 
+  - Sprint Review Katılımcıları: Berin Sudem Yıldırım, Sude Nur Eynel, Deniz Can Şova, Özgür Şallı, Saime Özen
+
+* __Sprint Retrospective:__
+  - Ekibin tamamı daha aktif bir iletişim içerisinde devam etmiş olup verilen görevler tamamlanmış ve fikir alışverişi yapılmıştır.
+  - Son oyun düzenlemeleri herkesin onayından geçirilmiştir.
+  - Genel olarak zamanlamada sorun yaşadığımız kanaatine varmış olsak da herkesin sorumluluklarını yerine getirmesiyle projemizi teslim edebildiğimiz için mutluyuz.
   
   
   
