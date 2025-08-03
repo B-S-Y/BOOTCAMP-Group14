@@ -1,5 +1,6 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.AI;
 using UnityEngine.UI;
 
 public class PlayerMovement : MonoBehaviour
@@ -7,6 +8,10 @@ public class PlayerMovement : MonoBehaviour
     private Player player;
     private PlayerInput input;
     public CharacterController charController { get; private set; }
+
+    [SerializeField] private bool AutoRun = false;
+    [SerializeField] private NavMeshAgent agent;
+    [SerializeField] private GameObject point;
 
 
     [Header("Movement")]
@@ -24,11 +29,6 @@ public class PlayerMovement : MonoBehaviour
 
     private float stamina = 100f;
     private float staminaInterval = 20f; // Değer azaldıkça koşu süresi artar
-
-
-    [SerializeField] private TextMeshProUGUI staminaText;
-    [SerializeField] private TextMeshProUGUI speedText;
-    [SerializeField] private TextMeshProUGUI isRunningText;
 
 
 
@@ -50,22 +50,35 @@ public class PlayerMovement : MonoBehaviour
         ApplyMovement();
         ApplyGravity();
         DecreasesStamina();
-
-        staminaText.text = "Stamina: " + stamina;
-        speedText.text = "Speed: " + speed;
-        isRunningText.text = "Is Running: " + isRunning;
     }
 
     private void ApplyMovement()
     {
-        movementDirection = transform.right * moveInput.x + transform.forward * moveInput.y;
-        ApplyGravity();
-        if (movementDirection.magnitude > 0)
+        if (AutoRun)
         {
-            player.effects.PlayFootStepSFX();
+            agent.destination = point.transform.position;
+            movementDirection = transform.right * moveInput.x + transform.forward * 1.5f; //moveInput.y;
+            ApplyGravity();
+            if (movementDirection.magnitude > 0)
+            {
+                player.effects.PlayFootStepSFX();
 
-            charController.Move(movementDirection * speed * Time.deltaTime);
-            Effects();
+                charController.Move(movementDirection * speed * Time.deltaTime);
+                Effects();
+            }
+        }
+        else
+        {
+
+            movementDirection = transform.right * moveInput.x + transform.forward * moveInput.y;
+            ApplyGravity();
+            if (movementDirection.magnitude > 0)
+            {
+                player.effects.PlayFootStepSFX();
+
+                charController.Move(movementDirection * speed * Time.deltaTime);
+                Effects();
+            }
         }
     }
 
@@ -74,7 +87,7 @@ public class PlayerMovement : MonoBehaviour
     private void Effects()
     {
         player.cam.headBob.HeadBob(speed, isRunning ? 0.11f : 0.07f);
-        player.cam.cameraFov.SetCameraFov(isRunning ? 90f : 60f);
+        player.cam.cameraFov.SetCameraFov(isRunning ? 75f : 60f);
     }
 
     private void ApplyGravity()

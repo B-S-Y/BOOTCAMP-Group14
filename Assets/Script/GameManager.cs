@@ -20,7 +20,7 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
-        Invoke(nameof(SetLightsActive), 10f);
+        Invoke(nameof(SetLightsActive), 1f);
     }
 
 

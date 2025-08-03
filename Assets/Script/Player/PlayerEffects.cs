@@ -14,6 +14,8 @@ public class PlayerEffects : MonoBehaviour
 
     public void PlayFootStepSFX()
     {
+        if (AudioManager.instance == null) return;
+
 
         if (player.movement.isRunning)
         {
